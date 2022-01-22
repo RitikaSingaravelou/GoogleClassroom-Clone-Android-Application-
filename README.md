@@ -1,4 +1,4 @@
-# GoogleClassroom-Clone-Android-Application
+# GoogleClassroom-Clone-AndroidApplication
 This project was submitted for judging at the Flipr Hackathon X 2021 
 
 
