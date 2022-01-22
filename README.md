@@ -3,6 +3,7 @@ This project was submitted for judging at the Flipr Hackathon X 2021
 
 
 APP FEATURES:
+
 1.Login and Signup using username and password 
 [Gmail Sync-Login with Gmail option also available]
 
