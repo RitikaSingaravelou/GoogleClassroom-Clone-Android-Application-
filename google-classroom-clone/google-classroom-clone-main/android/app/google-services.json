@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650452887559",
+    "project_id": "classroom-94766",
+    "storage_bucket": "classroom-94766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650452887559:android:2fb6c01ac653e6bc5fe2a2",
+        "android_client_info": {
+          "package_name": "com.admri.classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650452887559-r6312eu368vsh440g9lt95dv4ff8ch7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admri.classroom",
+            "certificate_hash": "cf35f339685d671e9af47bb9384be539772f6335"
+          }
+        },
+        {
+          "client_id": "650452887559-50si1fe9rn17b69qti3cdouc11ucug59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFK6oZWXPvqK1ABzx6bFlA2ttPuKdwgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650452887559-50si1fe9rn17b69qti3cdouc11ucug59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
